@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    body{
+        text-align: center;
+        background: rgb(238,174,202);
+        background: lightsteelblue;
+    }
+    button{
+          height: 20px;
+          width: 50px;
+          background-color: skyblue
+    }
